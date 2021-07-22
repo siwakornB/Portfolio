@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.33f95acd.chunk.css",
+    "main.js": "/Portfolio/static/js/main.8cf24b44.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.8cf24b44.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.0cd23f11.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.0cd23f11.js.map",
+    "static/js/2.d674d9b6.chunk.js": "/Portfolio/static/js/2.d674d9b6.chunk.js",
+    "static/js/2.d674d9b6.chunk.js.map": "/Portfolio/static/js/2.d674d9b6.chunk.js.map",
+    "static/js/3.128696dc.chunk.js": "/Portfolio/static/js/3.128696dc.chunk.js",
+    "static/js/3.128696dc.chunk.js.map": "/Portfolio/static/js/3.128696dc.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.33f95acd.chunk.css.map": "/Portfolio/static/css/main.33f95acd.chunk.css.map",
+    "static/js/2.d674d9b6.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.d674d9b6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Portfolio/static/media/Gotham-Bold.f9a5c924.otf",
+    "static/media/Rambo.png": "/Portfolio/static/media/Rambo.37386ebb.png",
+    "static/media/Rammbo-home.gif": "/Portfolio/static/media/Rammbo-home.c341bdd2.gif",
+    "static/media/Rammbo.gif": "/Portfolio/static/media/Rammbo.16f9a7d9.gif",
+    "static/media/cropped.jpg": "/Portfolio/static/media/cropped.2b134752.jpg",
+    "static/media/gameplay.png": "/Portfolio/static/media/gameplay.0c204bc2.png",
+    "static/media/home.png": "/Portfolio/static/media/home.65271769.png",
+    "static/media/lar_censor.png": "/Portfolio/static/media/lar_censor.414a1062.png",
+    "static/media/lar_home.png": "/Portfolio/static/media/lar_home.ddd7f670.png",
+    "static/media/lar_login.png": "/Portfolio/static/media/lar_login.949f46a7.png",
+    "static/media/lar_new_role.png": "/Portfolio/static/media/lar_new_role.db6a9d0b.png",
+    "static/media/lar_profile.png": "/Portfolio/static/media/lar_profile.cfe2aa65.png",
+    "static/media/lar_profile_change.png": "/Portfolio/static/media/lar_profile_change.ff41bcd9.png",
+    "static/media/lar_profile_list.png": "/Portfolio/static/media/lar_profile_list.fa249cfc.png",
+    "static/media/lar_regis.png": "/Portfolio/static/media/lar_regis.e1efcc77.png",
+    "static/media/lar_role_change.png": "/Portfolio/static/media/lar_role_change.446c406d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cd23f11.js",
+    "static/js/2.d674d9b6.chunk.js",
+    "static/css/main.33f95acd.chunk.css",
+    "static/js/main.8cf24b44.chunk.js"
+  ]
+}
